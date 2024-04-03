@@ -121,3 +121,4 @@ plt.show()
 
 
 ## Result
+Thus the stock price is predicted using Recurrent Neural Networks successfully.
